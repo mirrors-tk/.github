@@ -8,6 +8,12 @@ The site operates almost entirely in free tiers, and currently all of the server
 对于大陆其他站点已收录的软件库，本站则会按照访客 IP 所在地重定向到较近的镜像站，
 旨在帮助宁可多一次重定向，也不想手工输入 `.tuna.tsinghua.edu.cn` 或 `.sjtug.sjtu.edu.cn` 的懒癌晚期患者改善临终生活质量。
 
+### 导航
+
+* [web](https://github.com/mirrors-tk/web) - 前端页面（含帮助文档）
+* [rclone](https://github.com/mirrors-tk/rclone) - 对象存储、HTTP 网关
+* [conf](https://github.com/mirrors-tk/conf) - 同步脚本
+* [dumb](https://github.com/mirrors-tk/dumb) - 同步状态更新
 
 ### 反馈
 
@@ -17,10 +23,3 @@ The site operates almost entirely in free tiers, and currently all of the server
 * 请求功能改进
 * 提出使用疑问
 * 反馈缺陷故障
-
-对于原因较明确的问题，也鼓励您直接到相应模块的仓库里提 Issue 和 PR：
-
-* [web](https://github.com/mirrors-tk/web) - 前端页面，含帮助文档
-* [conf](https://github.com/mirrors-tk/conf) - 上游地址与同步方式配置
-* [tunasync](https://github.com/mirrors-tk/sync) - 同步任务管理、状态展示
-* [rclone](https://github.com/mirrors-tk/rclone) - 对象存储、HTTP 网关

@@ -5,7 +5,7 @@ The site operates almost entirely in free tiers, and currently all of the server
 
 这里是一个依靠白嫖大厂免费资源建立的开源软件镜像站，主营大陆各大镜像均暂未接纳的开源软件库。
 
-对于大陆其他站点已收录的软件库，本站则会按照访客 IP 所在地重定向到较近的镜像站，
+对于大陆其他站点已收录的软件库，本站则会通过 [mirrorz-302](https://github.com/mirrorz-org/mirrorz-302) 重定向到较近的镜像站，
 旨在帮助宁可多一次重定向，也不想手工输入 `.tuna.tsinghua.edu.cn` 或 `.sjtug.sjtu.edu.cn` 的懒癌晚期患者改善临终生活质量。
 
 ### 导航
